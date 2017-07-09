@@ -1,0 +1,1 @@
+I have to replicate the google homepage as a training for coding. I'm also practicing my GitHub skills 
